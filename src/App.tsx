@@ -13,7 +13,9 @@ function App() {
 
   const messages = [
     "Fue el comienzo de todo, un mes bello y hermoso.",
-    "Una nueva aventura surgió, nuevos mensajes que siguen apareciendo día tras día"
+    "Una nueva aventura surgió, nuevos mensajes que siguen apareciendo día tras día",
+    "Otro día en el cual compartimos juntitos, ya cada vez proximo a volver a vernos, anhelo siempre los días donde nos vemos. Te amo mielanie",
+    "Ya un día menos, cada vez más cerca para estar junto a ti. Bonito día c: mira la luna"
   ];
 
   const generateDays = (): Day[] => {

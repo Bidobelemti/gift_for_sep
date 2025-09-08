@@ -17,7 +17,9 @@ function App() {
     "Otro día en el cual compartimos juntitos, ya cada vez proximo a volver a vernos, anhelo siempre los días donde nos vemos. Te amo mielanie",
     "Ya un día menos, cada vez más cerca para estar junto a ti. Bonito día c: mira la luna",
     "Hoy nos vimos, fue lo mas hermoso del mundo el tiempo que compartimos cerca. La comida, el lugar, el tiempo. Fue lo más valorado por mi. Te amo incondicionalmente",
-    "Sábado tranquilo, sin problemas, un día hermoso pero esfuerzate en el trabajo, se que lo harás bien siempre. Eres muy capaz, muy hermosa, el amor de mi vida"
+    "Sábado tranquilo, sin problemas, un día hermoso pero esfuerzate en el trabajo, se que lo harás bien siempre. Eres muy capaz, muy hermosa, el amor de mi vida",
+    "Hoy la luna esta muy hermosa, ¿no lo crees?. Una hermosa y brillante luna ilumina la noche de hoy. Asi como terminaste iluminando mi vida. Siempre te lo agradeceré.",
+    "El inicio de una nueva semana, una más donde compartiremos cosas. Cada vez falta poco para regresar y poder verte nuevamente todos los días."
   ];
 
   const generateDays = (): Day[] => {
